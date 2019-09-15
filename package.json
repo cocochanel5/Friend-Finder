@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clsavino/Friend-Finder---Node-and-Express-Servers.git"
+    "url": "git+https://github.com/cocochanel5/Friend-Finder"
   },
-  "author": "Christi Savino",
+  "author": "Chanel Farrell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/clsavino/Friend-Finder---Node-and-Express-Servers/issues"
+    "url": "https://github.com/cocochanel5/Friend-Finder"
   },
-  "homepage": "https://github.com/clsavino/Friend-Finder---Node-and-Express-Servers#readme",
+  "homepage": "https://github.com/cocochanel5/Friend-Finder#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
